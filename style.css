@@ -1,0 +1,106 @@
+body{
+  text-align:Center;
+  font-family:monospace;
+  font-weight: bold;
+  font-size:20px;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.links:hover{
+  background-color:rgb(79, 255, 182);
+  color: rgb(0, 0, 0);
+}
+.line{
+  background-color: #aaaaaa;
+  width: 580px;
+  height: 10px;
+  top: 10px;
+  right: 30px;
+  text-align: center;
+  margin-left:410px;
+  border-style: solid;
+}
+.hobbie{
+  cursor: pointer;
+}
+.hobbie h1{
+  margin-bottom: 10px;
+}
+
+.hobbie_head
+{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  width: 100%;
+  display: inline-block;
+}
+
+.hobbie_head i
+{
+float: right;
+}
+
+.hobbie_text span
+{
+color: #ff7700;
+}
+#H_C{
+  font-family: 'Cinzel', serif;
+}
+#H_D{
+  font-family: 'Cinzel', serif;
+}
+#H_B{
+  font-family: 'Cinzel', serif;
+}
+#H_A{
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+#L{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.topnav {
+overflow: hidden;
+background-color: #333;
+position:sticky;
+top: 0;
+  width: 100%;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #bbb;
+color: black;
+}
+
+.topnav-right {
+float: left;
+}
+.menu_div{
+float: left;
+width: 50%;
+padding: 160px;
+color: honeydew;
+font-size: 25px;
+font-family: cursive;
+}
+#menu_list{
+background-color:#f5c71a;
+color:black; 
+width: 200px;
+border: none;
+}
+#L{
+  margin-top: 20px;
+}
